@@ -1,0 +1,15 @@
+{
+   "root_loc":"D:\\Utilities\\Minecraft_Paintings",
+   "paintings_source_loc":"{}\\Ready",
+   "textures_loc":"{}\\Painting_Resourcepack\\assets\\{}\\textures\\painting",
+   "json_lang_loc":"{}\\Painting_Resourcepack\\assets\\{}\\lang",
+   "json_variant_loc":"{}\\Painting_Datapack\\data\\{}\\painting_variant",
+   "json_placeable_loc":"{}\\Painting_Datapack\\data\\minecraft\\tags\\painting_variant",
+   "lang_author":"dribson",
+   "lang_author_format":"painting.{}.{}.author",
+   "lang_title_format":"painting.{}.{}.title",
+   "lang_title":"en_us.json",
+   "json_placeable_title":"placeable.json",
+   "placeable_format":"{}:{}",
+   "variant_title":"{}.json"
+}
