@@ -30,7 +30,7 @@ You may reference the existing example painting in `\Ready\16x9`
 
 
 ## Running
-Open command prompt and PowerShell within the folder
+Open command prompt or PowerShell within the folder
 
 From the folder, you can hold shift and right click, then select Open PowerShell Window Here
 	
