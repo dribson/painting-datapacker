@@ -1,5 +1,5 @@
 # painting-datapacker
-Create a Minecraft Datapack for custom paintings 
+Create a Minecraft Datapack for custom paintings
 
 ## Setup
 Open the *config.json* file in your preferred text editor, and update the following variables
@@ -58,7 +58,7 @@ Once all paintings have been processed, the script checks the Resource Pack and 
 
 If a pack.mcmeta file is not found, one is created using the *resource_ver* and *data_ver* variables in the config file.
 	
-**NOTE**: The script will **_not_** update an existing resource or data pack if the provided resource_ver or data_ver variables are newer than the version in the pack.mcmeta file.
+**NOTE**: The script will **_not_** update an existing resource or data pack if the provided *resource_ver* or *data_ver* variables are newer than the version in the pack.mcmeta file.
 		
 If a *pack.png* file is not found, a sample image is created. This image is a 1x1 black pixel.
 	
